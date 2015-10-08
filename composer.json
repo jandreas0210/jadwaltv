@@ -1,5 +1,5 @@
 {
-  "name": "ridwan/jadwaltv",
+  "name": "ridwanskaterock/jadwaltv",
   "type": "library",
   "description": "SImple API For Show Date TV.",
   "keywords": [
@@ -10,7 +10,7 @@
   "authors": [
     {
       "name": "Muhamad Ridwan",
-      "email": "ridwanskaterocks@gmail.com",
+      "email": "ridwanskaterocks@gmail.com"
     }
   ],
   "require": {
